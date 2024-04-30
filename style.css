@@ -22,6 +22,6 @@ input[type="submit"]{
   font-weight: bold;
   max-width: 100px;
   padding: 5px;
-  
-  
+  border-radius: 5px;
+  cursor: pointer;
 }
